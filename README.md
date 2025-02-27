@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building apps and improving my development skills<br>👯 I’m looking to collaborate on interesting tech projects, especially in Web and App Development  <br>🤝 I’m looking for help with learning advanced development techniques and best practices  <br>🌱 I’m currently learning full-stack Web Development and mobile App Development  <br>💬 Ask me about Operating Systems, troubleshooting, and optimizing systems<br>⚡ Fun fact I love diving deep into OS concepts and finding ways to make systems run smoother! 🚀  <br><br>How’s this? Let me know if you’d like any tweaks! 😃
-
+🔭 I’m currently working on building apps and improving my development skills<br>👯 I’m looking to collaborate on interesting tech projects, especially in Web and App Development  <br>🤝 I’m looking for help with learning advanced development techniques and best practices  <br>🌱 I’m currently learning full-stack Web Development and mobile App Development  <br>💬 Ask me about Operating Systems, troubleshooting, and optimizing systems<br>⚡ Fun fact I love diving deep into OS concepts and finding ways to make systems run smoother! 🚀  
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Utkarsh_thakur26@proton.me) 
