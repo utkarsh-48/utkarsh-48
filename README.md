@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://in.pinterest.com/pin/14636767526269135/"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQFqLq77YAos7g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1713144519479?e=2147483647&v=beta&t=uQu0xSmHB5BwjLGiVzsosy3lOmOYVlm0Td9pfNh1GWA"/>
 </p>
 
 
