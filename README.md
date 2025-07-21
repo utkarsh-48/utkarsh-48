@@ -12,14 +12,11 @@
 🤝 I’m always eager to learn advanced techniques, best practices, and real-world deployment strategies  
 🌱 Currently diving deep into Machine Learning, with plans to explore Robotics next  
 💬 Ask me about Operating Systems, system optimization, and full-stack development  
-⚡ Fun fact:  
-<div align="left">
-I'm teaching my computer to <em>see</em> the world one convolutional layer at a time.<br>
-Ultron would be proud... but I promise I'm using my powers for good. 🤖
-</div>
-    <p align="center">
-      <img src="https://readme-typing-svg.demolab.com/?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer;Aspiring+Full-Stack+Developer;Tech+Enthusiast;Lifelong+Learner" />
-    </p>
+⚡ Fun fact: I’m teaching my computer to *see* the world one convolutional layer at a time. Ultron would be proud... but I promise I’m using my powers for good. ( I use Arch btw )
+
+
+  <p align="center">
+      <img src="https://readme-typing-svg.demolab.com/?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Machine+Learning+Explorer;Aspiring+Roboticist;Full-Stack+Developer;Lifelong+Learner" /></p>
 
 
 # 💻 Tech Stack:
