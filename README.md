@@ -12,7 +12,8 @@
 🤝 I’m always eager to learn advanced techniques, best practices, and real-world deployment strategies  
 🌱 Currently diving deep into Machine Learning, with plans to explore Robotics next  
 💬 Ask me about Operating Systems, system optimization, and full-stack development  
-⚡ Fun fact: I’m training my computer to *see* one convolutional layer at a time. Ultron would be proud... but I promise I’m using my powers for                                               good 
+⚡ Fun fact: I’m training my computer to *see* one convolutional layer at a time.
+              Ultron would be proud... but I promise I’m using my powers for good 
     <p align="center">
       <img src="https://readme-typing-svg.demolab.com/?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer;Aspiring+Full-Stack+Developer;Tech+Enthusiast;Lifelong+Learner" />
     </p>
