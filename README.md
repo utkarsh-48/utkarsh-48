@@ -5,7 +5,14 @@
 
 # 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-🔭 I’m currently working on building apps and improving my development skills<br>👯 I’m looking to collaborate on interesting tech projects, especially in Web and App Development <br>🤝 I’m looking for help with learning advanced development techniques and best practices <br>🌱 I’m currently learning full-stack Web Development and mobile App Development <br>💬 Ask me about Operating Systems, troubleshooting, and optimizing systems<br>⚡ Fun fact I love diving deep into OS concepts and finding ways to make systems run smoother! 🚀
+🔭 I’m currently focused on learning Machine Learning and building practical ML projects  
+🤖 My long-term goal is to apply ML in Robotics and Intelligent Systems  
+👨‍💻 I have a background in Web Development (full-stack) and enjoy building apps from scratch  
+👯 I’m looking to collaborate on ML, AI, or Robotics-related projects — and open to cool Web/App ideas too  
+🤝 I’m always eager to learn advanced techniques, best practices, and real-world deployment strategies  
+🌱 Currently diving deep into Machine Learning, with plans to explore Robotics next  
+💬 Ask me about Operating Systems, system optimization, and full-stack development  
+⚡ Fun fact: I’m training my computer to *see* — one convolutional layer at a time. Ultron would be proud... but I promise I’m using my powers for good 🤖🧠
     <p align="center">
       <img src="https://readme-typing-svg.demolab.com/?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer;Aspiring+Full-Stack+Developer;Tech+Enthusiast;Lifelong+Learner" />
     </p>
